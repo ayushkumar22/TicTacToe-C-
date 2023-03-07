@@ -1,1 +1,2 @@
-Basic Tic Tac Toe game.
+Basic Tic Tac Toe game using c++
+
